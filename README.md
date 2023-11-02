@@ -29,13 +29,11 @@ Ming-Feng Kuo<sup>1</sup>, Yu-Shuen Wang<sup>1</sup>
 ### Training
 
 ```bash
-~$ cd src
 ~/Basketball_Flow$ python train.py
 ```
 
 ### Testing
 
 ```bash
-~$ cd src
 ~/Basketball_Flow$ python test.py
 ```
