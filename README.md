@@ -1,7 +1,9 @@
 # Basketball Flow
 
 ### Basketball Flow: Learning to Synthesize Realistic and Diverse Basketball GamePlays based on Tactical Sketches
+
 Ming-Feng Kuo<sup>1</sup>, Yu-Shuen Wang<sup>1</sup>
+
 <sup>1</sup>National Yang Ming Chiao Tung University
 
 This article introduces "Basketball Flow," a system designed to create diverse and realistic basketball game simulations based on predetermined strategy sketches. By providing a strategy sketch, the model generates various offensive and defensive player simulations within the specified sketch. Such simulations aid less experienced players in understanding strategies and potential challenges more intuitively. To achieve this, Basketball Flow combines common generative models, leveraging their strengths and compensating for their weaknesses. Compared to previous research, Basketball Flow offers more realistic and diverse basketball gameplay and consistently receives higher ratings across various basketball gameplay features, affirming its effectiveness through experimental results.
