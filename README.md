@@ -9,18 +9,12 @@ Ming-Feng Kuo<sup>1</sup>, Yu-Shuen Wang<sup>1</sup>
 > This article introduces "Basketball Flow," a system designed to create diverse and realistic basketball game simulations based on predetermined strategy sketches. By providing a strategy sketch, the model generates various offensive and defensive player simulations within the specified sketch. Such simulations aid less experienced players in understanding strategies and potential challenges more intuitively. To achieve this, Basketball Flow combines common generative models, leveraging their strengths and compensating for their weaknesses. Compared to previous research, Basketball Flow offers more realistic and diverse basketball gameplay and consistently receives higher ratings across various basketball gameplay features, affirming its effectiveness through experimental results.
 
 ### Visualizing Basketball Gameplays
-
-<p align="center">
-  <img src="https://github.com/MingFengKuo/Basketball_Flow/blob/main/Image/diversity_demo.jpg" align="right" width="60%" title="Visualizing Basketball Gameplays"/>
-</p>
+<img src="https://github.com/MingFengKuo/Basketball_Flow/blob/main/Image/diversity_demo.jpg" align="right" width="60%" title="Visualizing Basketball Gameplays"/>
 
 > Tactical sketches at the top, followed by model-generated game scenarios in rows 'a' to 'c.’ Columns 1 to 4 represent game phases with green, red, and blue dots indicating the ball, offensive players, and defensive players, respectively.
 
 ### Diversity Comparison
-
-<p align="center">
-  <img src="https://github.com/MingFengKuo/Basketball_Flow/blob/main/Image/diversity.jpg" width="60%" title="Diversity Comparison"/>
-</p>
+<img src="https://github.com/MingFengKuo/Basketball_Flow/blob/main/Image/diversity.jpg" width="60%" title="Diversity Comparison"/>
 
 > We compare the diversity of simulated game plays by overlaying 100 generated trajectories of a particular player under the same conditions. Black tracks represent input conditions, while green, red, and blue tracks correspond to basketball, offensive player, and defensive player movements. Among these, Basketball Flow demonstrates the highest diversity.
 
