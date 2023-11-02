@@ -25,3 +25,17 @@ Ming-Feng Kuo<sup>1</sup>, Yu-Shuen Wang<sup>1</sup>
 [Dataset](https://drive.google.com/drive/folders/1Kcf0lA0qrHvuIhAsZw2ia83s1jzPcE0r?usp=sharing)
 
 [Checkpoints](https://drive.google.com/drive/folders/1ibwMegJEvM25YcQg_N3b-bnSkZQmixHG?usp=sharing)
+
+### Training
+
+```bash
+~$ cd src
+~/Basketball_Flow$ python train.py
+```
+
+### Testing
+
+```bash
+~$ cd src
+~/Basketball_Flow$ python test.py
+```
