@@ -24,8 +24,6 @@ Ming-Feng Kuo<sup>1</sup>, Yu-Shuen Wang<sup>1</sup>
 
 > We compare the diversity of simulated game plays by overlaying 100 generated trajectories of a particular player under the same conditions. Black tracks represent input conditions, while green, red, and blue tracks correspond to basketball, offensive player, and defensive player movements. Among these, Basketball Flow demonstrates the highest diversity.
 
-### Download Dataset
+### Download
 [Dataset](https://drive.google.com/drive/folders/1Kcf0lA0qrHvuIhAsZw2ia83s1jzPcE0r?usp=sharing)
-
-### Download Checkpoints
 [Checkpoints](https://drive.google.com/drive/folders/1ibwMegJEvM25YcQg_N3b-bnSkZQmixHG?usp=sharing)
