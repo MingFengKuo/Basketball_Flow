@@ -10,13 +10,13 @@ Ming-Feng Kuo<sup>1</sup>, Yu-Shuen Wang<sup>1</sup>
 
 ### Visualizing Basketball Gameplays
 
-<img src="https://github.com/MingFengKuo/Basketball_Flow/blob/main/Image/diversity_demo.jpg" width="60%" title="Visualizing Basketball Gameplays"/>
+<img src="https://github.com/MingFengKuo/Basketball_Flow/blob/main/Image/diversity_demo.jpg" title="Visualizing Basketball Gameplays"/>
 
 > Tactical sketches at the top, followed by model-generated game scenarios in rows 'a' to 'c.’ Columns 1 to 4 represent game phases with green, red, and blue dots indicating the ball, offensive players, and defensive players, respectively.
 
 ### Diversity Comparison
 
-  <img src="https://github.com/MingFengKuo/Basketball_Flow/blob/main/Image/diversity.jpg" width="60%" title="Diversity Comparison"/>
+  <img src="https://github.com/MingFengKuo/Basketball_Flow/blob/main/Image/diversity.jpg" title="Diversity Comparison"/>
 
 > We compare the diversity of simulated game plays by overlaying 100 generated trajectories of a particular player under the same conditions. Black tracks represent input conditions, while green, red, and blue tracks correspond to basketball, offensive player, and defensive player movements. Among these, Basketball Flow demonstrates the highest diversity.
 
