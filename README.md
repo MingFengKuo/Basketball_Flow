@@ -12,13 +12,13 @@ This article introduces "Basketball Flow," a system designed to create diverse a
 ### Download Checkpoints
 [Checkpoints](https://drive.google.com/drive/folders/1ibwMegJEvM25YcQg_N3b-bnSkZQmixHG?usp=sharing)
 
-### Results
-
-Visualizing Basketball Gameplays
+### Visualizing Basketball Gameplays
 ![Basketball Flow Demo](https://github.com/MingFengKuo/Basketball_Flow/blob/main/Image/diversity_demo.jpg)
+
 Tactical sketches at the top, followed by model-generated game scenarios in rows 'a' to 'c.’ Columns 1 to 4 represent game phases with green, red, and blue dots indicating the ball, offensive players, and defensive players, respectively.
 
-Diversity Comparison
+### Diversity Comparison
 ![Basketball Flow Diversity](https://github.com/MingFengKuo/Basketball_Flow/blob/main/Image/diversity.jpg)
+
 We compare the diversity of simulated game plays by overlaying 100 generated trajectories of a particular player under the same conditions. Black tracks represent input conditions, while green, red, and blue tracks correspond to basketball, offensive player, and defensive player movements. Among these, Basketball Flow demonstrates the highest diversity.
 
