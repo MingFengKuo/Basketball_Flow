@@ -1,4 +1,4 @@
-# [Basketball Flow]([https://arxiv.org/abs/1909.07088](https://dl.acm.org/doi/10.1145/3611380.3630167))
+# [Basketball Flow](https://dl.acm.org/doi/10.1145/3611380.3630167)
 
 ### Basketball Flow: Learning to Synthesize Realistic and Diverse Basketball GamePlays based on Tactical Sketches
 
